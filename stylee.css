@@ -1,0 +1,61 @@
+#back-image {
+background-image: url("images/BG1.png"); /*add url of the image*/
+background-color: black;
+width: 100%;
+background-size: cover;
+width: 100vw;
+background-repeat: no-repeat;
+height: 100vh;
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px; } 
+
+
+img {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 50px;
+    
+}
+
+.nav {
+    display: flex;
+    margin-left: 433px;
+    margin-top: 161px;
+    margin-left: 600px;
+    position: absolute;
+}
+#links {
+    background:transparent;
+    list-style: none;
+    display: inline-block;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+#top {
+    margin-left: 84px;
+    margin-top: 12px;
+}
+
+#top-centre {
+    margin-left: 39px;
+margin-top: 54px;
+}
+
+#bottom-centre {
+    margin-left: 84px;
+    margin-top: 69px;
+}
+
+#bottom {
+    margin-left: 27px;
+margin-top: 70px;
+}
